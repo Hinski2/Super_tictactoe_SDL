@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "Super Tictactoe", "index.html", [
-    [ "Super Tictactoe game created using SDL", "index.html", null ],
+    [ "Super tic tac toe", "index.html", "index" ],
     [ "Data Structures", "annotated.html", [
       [ "Data Structures", "annotated.html", "annotated_dup" ],
       [ "Data Structure Index", "classes.html", null ],
@@ -39,6 +39,7 @@ var NAVTREE =
       [ "Globals", "globals.html", [
         [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ],
+        [ "Variables", "globals_vars.html", null ],
         [ "Typedefs", "globals_type.html", null ],
         [ "Enumerations", "globals_enum.html", null ],
         [ "Enumerator", "globals_eval.html", null ],
@@ -50,7 +51,8 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html"
+"annotated.html",
+"structbutton.html#a63270ab40c67338c1151c4edc5c785e2"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

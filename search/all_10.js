@@ -1,8 +1,15 @@
 var searchData=
 [
-  ['uct_0',['uct',['../bot__utils_8c.html#af82ee3b37b210574e90864b86647a7cf',1,'uct(node *wierzcholek):&#160;bot_utils.c'],['../bot__utils_8h.html#af82ee3b37b210574e90864b86647a7cf',1,'uct(node *wierzcholek):&#160;bot_utils.c']]],
-  ['unselect_1',['unselect',['../bot__utils_8c.html#ab7699d76dbfbdac2bcd8de81538be44b',1,'unselect(node *v, char **plansza, int wynik, char **nad_zwyciestwa):&#160;bot_utils.c'],['../bot__utils_8h.html#ab7699d76dbfbdac2bcd8de81538be44b',1,'unselect(node *v, char **plansza, int wynik, char **nad_zwyciestwa):&#160;bot_utils.c']]],
-  ['update_5fnad_5fzwyciestwa_2',['update_nad_zwyciestwa',['../bot__utils_8c.html#a05443aa1de48c7c70273a661d47c60d5',1,'update_nad_zwyciestwa(char **plansza, char **nad_zwyciestwa, int czesc):&#160;bot_utils.c'],['../bot__utils_8h.html#a2be37798866b78cd74e333e0df3aa5b0',1,'update_nad_zwyciestwa(char **plnasza, char **nad_zwyciestwa, int czesc):&#160;bot_utils.c']]],
-  ['using_20sdl_3',['Super Tictactoe game created using SDL',['../index.html',1,'']]],
-  ['uzupelnij_5fnad_5fzwyciestwa_4',['uzupelnij_nad_zwyciestwa',['../bot__utils_8c.html#a3a24070dbdfa513205f7cddb3e0bbba6',1,'uzupelnij_nad_zwyciestwa(char **plansza, char **nad_zwyciestwa):&#160;bot_utils.c'],['../bot__utils_8h.html#a3a24070dbdfa513205f7cddb3e0bbba6',1,'uzupelnij_nad_zwyciestwa(char **plansza, char **nad_zwyciestwa):&#160;bot_utils.c']]]
+  ['tac_20toe_0',['Super tic tac toe',['../index.html',1,'']]],
+  ['text_1',['text',['../structpallete.html#adfd50892609dca380bc07e04ac957e5d',1,'pallete']]],
+  ['textures_2',['textures',['../structtextures.html',1,'textures'],['../structsdl__data.html#aef99970f580121c1cab24243702d7724',1,'sdl_data::textures']]],
+  ['textures_3',['Textures',['../sdl__display_8h.html#a28ae449dd98e771f6473a8ea939bcfec',1,'sdl_display.h']]],
+  ['thread_5fno_4',['thread_no',['../bot_8c.html#a38a5cfc834972acc0ef9d21cfd3f3747',1,'bot.c']]],
+  ['tic_20tac_20toe_5',['Super tic tac toe',['../index.html',1,'']]],
+  ['time_5fleft_6',['time_left',['../structsdl__data.html#a413b57bc91d2b67e969427026aae7dbb',1,'sdl_data']]],
+  ['timer_7',['timer',['../structplayfield.html#a8be607085e34dfc661a30dd871728e73',1,'playfield']]],
+  ['to_20have_20doxygen_20installed_8',['Generating documentation - you need to have Doxygen installed',['../index.html#autotoc_md2',1,'']]],
+  ['to_20play_9',['How to play',['../index.html#autotoc_md1',1,'']]],
+  ['toe_10',['Super tic tac toe',['../index.html',1,'']]],
+  ['turn_11',['turn',['../structGame.html#ad16f3a8440430cfd53610b921641cca2',1,'Game']]]
 ];

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['node_0',['node',['../structnode.html',1,'']]]
+  ['cell_0',['cell',['../structcell.html',1,'']]],
+  ['choosen_5fnode_1',['choosen_node',['../structchoosen__node.html',1,'']]]
 ];

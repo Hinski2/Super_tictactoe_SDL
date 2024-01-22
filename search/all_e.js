@@ -1,15 +1,14 @@
 var searchData=
 [
-  ['sdl_0',['Super Tictactoe game created using SDL',['../index.html',1,'']]],
-  ['sdl_5fdisplay_2ec_1',['sdl_display.c',['../sdl__display_8c.html',1,'']]],
-  ['sdl_5fdisplay_2eh_2',['sdl_display.h',['../sdl__display_8h.html',1,'']]],
-  ['sdl_5futils_2ec_3',['sdl_utils.c',['../sdl__utils_8c.html',1,'']]],
-  ['sdl_5futils_2eh_4',['sdl_utils.h',['../sdl__utils_8h.html',1,'']]],
-  ['select_5',['Select',['../bot__utils_8c.html#a24b0cca882884b90ad12aa6ba21cc3ba',1,'Select(char **plansza, node *v, char **nad_zwyciestwa):&#160;bot_utils.c'],['../bot__utils_8h.html#a24b0cca882884b90ad12aa6ba21cc3ba',1,'Select(char **plansza, node *v, char **nad_zwyciestwa):&#160;bot_utils.c']]],
-  ['size_6',['size',['../structvector__node.html#ab225ba0e583670c19abbd06294bc4b21',1,'vector_node']]],
-  ['sons_7',['sons',['../structvector__node.html#af33e57022e487c11a5030eaf528a6262',1,'vector_node']]],
-  ['sprawdz_5fwynik_8',['sprawdz_wynik',['../bot__utils_8c.html#acc713c2294ae7511bd7c41158299d7d8',1,'sprawdz_wynik(char **sub_plansza):&#160;bot_utils.c'],['../bot__utils_8h.html#acc713c2294ae7511bd7c41158299d7d8',1,'sprawdz_wynik(char **sub_plansza):&#160;bot_utils.c']]],
-  ['status_9',['status',['../structBoard.html#a87db634107abdb1fa8cad2c893feb759',1,'Board::status'],['../structGame.html#ac7bdb69dfc0d8ddd753907bc9e9d2651',1,'Game::status']]],
-  ['super_20tictactoe_20game_20created_20using_20sdl_10',['Super Tictactoe game created using SDL',['../index.html',1,'']]],
-  ['symulate_11',['symulate',['../bot__utils_8c.html#a7fe6c00d29ed3278ced12979e832935a',1,'symulate(node *v, char **plansza, char **nad_zywciestwa, char gracz):&#160;bot_utils.c'],['../bot__utils_8h.html#aa47ff701e68f390be4e6aa237a7c6f48',1,'symulate(node *v, char **plansza, char **nad_zwyciestwa, char gracz):&#160;bot_utils.c']]]
+  ['readme_2emd_0',['README.md',['../README_8md.html',1,'']]],
+  ['rect_1',['rect',['../structcell.html#abfed619b1dc72b30c4ae39b9f94fb024',1,'cell']]],
+  ['remis_2',['remis',['../bot__utils_8c.html#a34de84a3eb08c90523b6d12541c2b25c',1,'remis(char **nad_zwyciestwa):&#160;bot_utils.c'],['../bot__utils_8h.html#a34de84a3eb08c90523b6d12541c2b25c',1,'remis(char **nad_zwyciestwa):&#160;bot_utils.c']]],
+  ['render_5fboard_3',['render_board',['../sdl__display_8c.html#a441807a4ed7ee767862771d0ba02cd16',1,'sdl_display.c']]],
+  ['render_5fbutton_4',['render_button',['../sdl__display_8c.html#aa587e803044bd8d844117d9318bf9d2c',1,'sdl_display.c']]],
+  ['render_5fcell_5',['render_cell',['../sdl__display_8c.html#aaae5f9a90471c78e068c0d9eb2e4d936',1,'sdl_display.c']]],
+  ['render_5fmenu_6',['render_menu',['../sdl__display_8c.html#a1aa0c547aeffbd59ab575f6ac3479cbd',1,'sdl_display.c']]],
+  ['render_5fobject_7',['render_object',['../sdl__display_8c.html#a671a5426810fe6710071bf45df6ed0e1',1,'sdl_display.c']]],
+  ['render_5fplayfield_8',['render_playfield',['../sdl__display_8c.html#ab187c4da46c153c0bc4824974cb2501c',1,'sdl_display.c']]],
+  ['renderer_9',['renderer',['../structsdl__data.html#ad05ad6e645eae02cd3efe286b2306d86',1,'sdl_data']]],
+  ['ruch_10',['ruch',['../structnode.html#aae2ec69b083a8118bdfa405a0f9166c9',1,'node']]]
 ];

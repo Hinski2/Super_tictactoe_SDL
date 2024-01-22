@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['gracz_0',['gracz',['../structzmiana.html#afd810759f0f12c8e49d3a1dd7d461b72',1,'zmiana']]]
+  ['double_5farrow_0',['double_arrow',['../structtextures.html#affbaf7c666fd29ca78e671282d3898f2',1,'textures']]]
 ];

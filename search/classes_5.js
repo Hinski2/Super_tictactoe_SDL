@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['zmiana_0',['zmiana',['../structzmiana.html',1,'']]]
+  ['node_0',['node',['../structnode.html',1,'']]]
 ];
